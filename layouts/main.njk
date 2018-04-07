@@ -1,0 +1,43 @@
+<!Doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="assets/css/main.css"
+          media="screen,tv,projection"/>
+    <link rel="stylesheet" type="text/css" href="assets/css/print.css"
+          media="print" />
+    <link rel="shortcut icon" href="assets/images/jncf.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>{{ sitename }}</title>
+    <meta name="description" content="{{ description }}" />
+    
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content=sitename />
+    <meta property="og:site_name" content=sitename />
+    <meta property="og:url" content=siteurl />
+    <meta property="og:description" content=description />
+  </head>
+  <body>
+    <div class="nav">
+      <ul class="compact_menu">
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="comsci.html">Comité scientifique</a></li>
+        <li><a href="cours.html">Cours</a></li>
+        <li><a href="edt.html">Emploi du temps</a></li>
+        <li><a href="inscription.html">Infos pratiques</a></li>
+        <li>
+          <a href="http://conferences.cirm-math.fr/1763.html"><strong>Site CIRM (en)</strong></a> 
+        </li>
+      </ul>
+    </div>
+    <div class="main">
+      <h1 class="longtitle">
+        Journées Nationales de Calcul Formel {{ datestart | datefmt("yyyy") }}<br />
+        CIRM, Luminy, {{ datestart | datefmt("d") }}–{{ dateend | datefmt("d mmmm yyyy") }}
+      </h1>
+
+      {{ contents | safe }}
+    </div>
+  </body>
+</html>

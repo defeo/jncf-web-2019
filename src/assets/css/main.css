@@ -1,0 +1,100 @@
+body {
+  background: white;
+}
+
+ul.compact_menu {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+ul.compact_menu li {
+  display: block;
+  padding: 1em;
+}
+
+div.nav {
+  position: fixed;
+  top: 0;
+  max-width: 12em;
+}
+
+div.main {
+  position: absolute;
+  top: 0;
+  left: 13em;
+  padding-left: 1em;
+  padding-bottom: 2em;
+  border-left: solid .5em #5070a0;
+  max-width: 40em;
+  min-height: 100%;
+}
+
+body.wide div.main {
+  max-width: none;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+  background-color: lightyellow;
+}
+
+tr:nth-child(odd) {
+  background-color: lightblue;
+}
+
+td {
+  padding: .5ex;
+  vertical-align: top;
+}
+
+td:nth-child(2) {
+  min-width: 20%;
+}
+
+td:nth-child(3) {
+  width: 80%;
+}
+
+h1.shorttitle {
+  display: none;
+}
+
+p, table {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+p.alert {
+  margin-left: 0;
+  border: 2pt solid;
+  padding: 1em;
+  background: lightyellow;
+}
+
+p.legal, p.legal * {
+  font-size: xx-small;
+  color: gray;
+}
+
+ul {
+  padding-left: 2em;
+}
+
+@media (max-width: 600px) {
+  div.nav, div.main {
+    position: static;
+    max-width: none;
+  }
+  div.nav {
+    border-bottom: solid thin #5070a0;
+  }
+  div.nav li {
+    padding: 5px 1em;
+  }
+}
+
+/* vim:set ft=css: */

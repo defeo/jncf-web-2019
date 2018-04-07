@@ -1,0 +1,14 @@
+/* @import "common.css"; */
+/* @import "tables.css"; */
+/* @import "program.css"; */
+
+/* .program table tr.plain td { display: none; } */
+div.nav, div.made-by, h1.longtitle { display: none; }
+a { text-decoration: none; }
+
+h1.shorttitle {
+	font-size: 150%;
+	text-align: center;
+}
+
+/* vim:set ft=css: */
