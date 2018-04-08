@@ -1,0 +1,27 @@
+---
+layout: main.njk
+---
+
+## Cours
+
+Quatre cours de trois heures sont prévus. Le reste du temps sera
+consacré à des exposés d'une vingtaine de minutes portant sur des
+travaux de recherche récents, principalement proposés par des
+doctorants et post-doctorants.
+
+### Aspects effectifs de la théorie des catégories
+
+par [Mohamed Barakat]() (University of Siegen, Allemagne)
+
+### Codes correcteurs d'erreurs construits à partir de polynômes tordus
+
+par [Delphine Boucher]() (Université de Rennes)
+
+### Histoire de l'algèbre effective
+
+par [Catherine Goldstein]()
+(CNRS, Institut de Mathématiques de Jussieu – Paris Rive gauche)
+
+### Méthodes algébriques pour les décompositions creuses
+
+par [Bernard Mourrain]() (Inria Sophia Antipolis – Méditerranée)

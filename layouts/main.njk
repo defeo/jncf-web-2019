@@ -2,10 +2,9 @@
 <html lang="fr">
   <head>
     <meta charset="utf-8" />
-    <link rel="stylesheet" type="text/css" href="assets/css/main.css"
-          media="screen,tv,projection"/>
-    <link rel="stylesheet" type="text/css" href="assets/css/print.css"
-          media="print" />
+    <link rel="stylesheet" href="assets/css/sanitize.css" />
+    <link rel="stylesheet" href="assets/css/main.css" media="screen,tv,projection"/>
+    <link rel="stylesheet" href="assets/css/print.css" media="print" />
     <link rel="shortcut icon" href="assets/images/jncf.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -19,7 +18,7 @@
     <meta property="og:description" content=description />
   </head>
   <body>
-    <div class="nav">
+    <nav>
       <ul class="compact_menu">
         <li><a href="index.html">Accueil</a></li>
         <li><a href="comsci.html">Comité scientifique</a></li>
@@ -27,17 +26,33 @@
         <li><a href="edt.html">Emploi du temps</a></li>
         <li><a href="inscription.html">Infos pratiques</a></li>
         <li>
-          <a href="http://conferences.cirm-math.fr/1763.html"><strong>Site CIRM (en)</strong></a> 
+          <a href="about:invalid"><strong>Site CIRM (en)</strong></a> 
         </li>
       </ul>
-    </div>
-    <div class="main">
+    </nav>
+
+    <main>
       <h1 class="longtitle">
         Journées Nationales de Calcul Formel {{ datestart | datefmt("yyyy") }}<br />
         CIRM, Luminy, {{ datestart | datefmt("d") }}–{{ dateend | datefmt("d mmmm yyyy") }}
       </h1>
 
       {{ contents | safe }}
-    </div>
+      
+      <footer>
+	Directeur de publication : Luca De Feo, UVSQ — LMV, 45 avenue
+	des États-Unis, 78035 Versailles,
+	&lt;<a href="mailto:luca.de-feo.arobase.uvsq.fr">luca.de-feo.arobase.uvsq.fr</a>&gt;
+      </footer>
+    </main>
+
+    <script>
+      document.querySelectorAll('a').forEach(function (a) {
+        if (a.href.startsWith('mailto:')) {
+          a.href = a.href.replace('.arobase.', '@');
+          a.textContent = a.textContent.replace('.arobase.', '@');
+        }
+      });
+    </script>
   </body>
 </html>

@@ -1,0 +1,94 @@
+$color: #5070a0;
+
+body {
+    background: white;
+    text-align: justify;
+}
+
+main {
+    max-width: 40em;
+    min-height: 100%;
+    padding: 0 5px 2em 5px;
+}
+
+nav {
+    border-bottom: solid .5em $color;
+    
+    ul {
+	list-style-type: none;
+	margin-left: 0px;
+	padding-left: 0px;
+	
+	li {
+	    display: block;
+	    padding: 5px 1em;
+	}
+    }
+}
+
+@media (min-width: 600px) {
+    body {
+	display: grid;
+	grid-template-columns: 12em auto;
+	grid-column-gap: 1em;
+    }
+    main {
+	border-left: solid .5em $color;
+	padding-left: 2em;
+    }
+    nav {
+	border-bottom: none;
+    }
+}
+
+body.wide main {
+  max-width: none;
+}
+
+/******************************************************************/
+
+tr:nth-child(even) {
+  background-color: lightyellow;
+}
+
+tr:nth-child(odd) {
+  background-color: lightblue;
+}
+
+td {
+  padding: .5ex;
+  vertical-align: top;
+}
+
+td:nth-child(2) {
+  min-width: 20%;
+}
+
+td:nth-child(3) {
+  width: 80%;
+}
+
+p, table {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+p.alert {
+  margin-left: 0;
+  border: 2pt solid;
+  padding: 1em;
+  background: lightyellow;
+}
+
+footer {
+    border-top: solid thin #eee;
+    margin-top: 5em;
+    padding-top: 0.5em;
+    font-size: xx-small;
+    color: gray;
+}
+
+ul {
+    padding-left: 2em;
+}
+

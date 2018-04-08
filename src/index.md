@@ -24,10 +24,13 @@ thématiques de recherche voisines.
 
 L'organisation des JNCF 2019 est assurée par :
 
-- Luca De Feo — Université de Versailles-Saint Quentin,
-- Alban Quadrat — Inria Lille – Nord Europe,
+- [Xavier Caruso](http://xavier.toonywood.org/) – Université de Rennes 1,
+- [Luca De Feo](http://defeo.lu/) – Université de Versailles-Saint Quentin & Inria Saclay,
+- [Mioara Joldes](http://homepages.laas.fr/mmjoldes/) – Université de Toulouse,
+- [Alban Quadrat](http://chercheurs.lille.inria.fr/aquadrat/) – Inria Lille - Nord Europe,
+- [Éric Schost](https://cs.uwaterloo.ca/~eschost/) – University Waterloo, Canada.
 
-[Contacter](mailto:jncf2019.arobase.listes.math.cnrs.fr)
+[Contacter](mailto:jncf2019.arobase.listes.math.cnrs.fr) les organisateurs.
 
 ## Soutiens
 
@@ -51,10 +54,6 @@ pour leur soutien :
 [2014](http://www.lifl.fr/jncf2014/)
 [2015](http://www.lifl.fr/jncf2015/)
 [2017](http://jncf2017.lip6.fr/)
+[2018](http://jncf2018.lip6.fr/)
 
 [Calendrier complet et archive des cours](http://jncf.math.cnrs.fr/)
-
-<p class="legal">
-Directeur de publication : Luca De Feo,	UVSQ — LMV,
-&lt;[luca.de-feo.arobase.uvsq.fr](mailto:luca.de-feo.arobase.uvsq.fr)&gt;
-</p>
