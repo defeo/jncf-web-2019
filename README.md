@@ -1,17 +1,36 @@
-# SIKE submission website
+# JNCF 2019 website
 
-## Prerequisites
+## Edit the webstie
 
-To build the website, you need a recent version of Node.js. Installing
-inotify-tools may help developing the website.
+The sources for the web pages are in the [`src`](src) folder, one
+`.md` Markdown file per page.
 
-## Install
+The website is automatically updated after each edit. The status of
+the current build is: [![click
+here](https://api.travis-ci.org/defeo/jncf-web-2019.svg?branch=master)](https://travis-ci.org/defeo/jncf-web-2019#).
+
+## Working locally
+
+You can clone this repo and work locally on the website. To test the
+website before pushing your changes, follow these steps.
+
+### Prerequisites
+
+You will need:
+
+- A recent version of Node.js (tested with Node 9),
+- To use the `make watch` command, which rebuilds the output at each
+  file change, install inotify-tools.
+
+### Install Node dependencies
 
 To install the dependencies:
 
 ```
 make install
 ```
+
+### Build the website
 
 To build the website:
 
@@ -28,7 +47,9 @@ inotify-tools installed:
 make watch
 ```
 
-## Edit
+### Deploy
 
-The website contents are in the `src` folder. Edit the `.md` Markdown
-files and rerun `make`.
+To deploy, simply push your changes to the orginal repo.
+
+Alternatively, if you have the password, you can run `make deploy`.
+

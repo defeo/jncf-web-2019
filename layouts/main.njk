@@ -20,7 +20,7 @@
   <body>
     <nav>
       <ul class="compact_menu">
-        <li><a href="index.html">Accueil</a></li>
+        <li><a href=".">Accueil</a></li>
         <li><a href="comsci.html">Comité scientifique</a></li>
         <li><a href="cours.html">Cours</a></li>
         <li><a href="edt.html">Emploi du temps</a></li>
@@ -40,9 +40,10 @@
       {{ contents | safe }}
       
       <footer>
-	Directeur de publication : Luca De Feo, UVSQ — LMV, 45 avenue
+	Dernière mise à jour le {{ built | datefmt("d mmmm yyyy") }}.<br>
+	Directeur de publication : Luca De Feo, UVSQ — LMV, 45 avenue
 	des États-Unis, 78035 Versailles,
-	&lt;<a href="mailto:luca.de-feo.arobase.uvsq.fr">luca.de-feo.arobase.uvsq.fr</a>&gt;
+	&lt;<a href="mailto:luca.de-feo.arobase.uvsq.fr">luca.de-feo.arobase.uvsq.fr</a>&gt;.
       </footer>
     </main>
 

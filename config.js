@@ -27,7 +27,8 @@ Metalsmith(__dirname)
 	datestart: "2019-02-04",
 	dateend: "2019-02-08",
 	generatorname: "Metalsmith",
-	generatorurl: "http://metalsmith.io/"
+	generatorurl: "http://metalsmith.io/",
+	built: new Date(),
     })
     .source('./src')
     .ignore('*~')
