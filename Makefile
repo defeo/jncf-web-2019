@@ -14,6 +14,6 @@ clean:
 	rm -r build/*
 
 deploy:
-	lftp 'sftp://lucadefe@www.jncf2019.uvsq.fr' -e 'mirror -eR build/ www.jncf2019.uvsq.fr/public_html/; bye'
+	lftp 'sftp://lucadefe@www.jncf2019.uvsq.fr' -e 'mirror -eR build www.jncf2019.uvsq.fr/public_html; bye'
 
 .PHONY: build install watch deploy
