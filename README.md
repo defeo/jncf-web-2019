@@ -27,3 +27,8 @@ inotify-tools installed:
 ```
 make watch
 ```
+
+## Edit
+
+The website contents are in the `src` folder. Edit the `.md` Markdown
+files and rerun `make`.

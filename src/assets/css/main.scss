@@ -18,11 +18,10 @@ nav {
 	list-style-type: none;
 	margin-left: 0px;
 	padding-left: 0px;
-	
-	li {
-	    display: block;
-	    padding: 5px 1em;
-	}
+    }	
+    li {
+	display: block;
+	padding: 5px 1em;
     }
 }
 
@@ -38,6 +37,9 @@ nav {
     }
     nav {
 	border-bottom: none;
+	li {
+	    padding: 1em;
+	}
     }
 }
 

@@ -10,4 +10,7 @@ node_modules/.installed: package.json
 	npm install
 	touch node_modules/.installed
 
-.PHONY: build install watch
+deploy:
+	lftp 'sftp://lucadefe@www.jncf2019.uvsq.fr' -e 'mirror -eR build/ www.jncf2019.uvsq.fr/public_html/; bye'
+
+.PHONY: build install watch deploy
