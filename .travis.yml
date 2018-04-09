@@ -1,0 +1,15 @@
+dist: trusty
+sudo: false
+language: node_js
+addons:
+  apt:
+    packages:
+      - lftp
+install:
+  - make install
+script:
+  - make
+depoly:
+  skip_cleanup: true
+  provider: script
+  script: "lftp sftp://lucadefe@www.jncf2019.uvsq.fr -e 'mirror -eR build/ www.jncf2019.uvsq.fr/public_html/; bye' --env-password"
