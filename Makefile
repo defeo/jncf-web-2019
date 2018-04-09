@@ -10,6 +10,9 @@ node_modules/.installed: package.json
 	npm install
 	touch node_modules/.installed
 
+clean:
+	rm -r build/*
+
 deploy:
 	lftp 'sftp://lucadefe@www.jncf2019.uvsq.fr' -e 'mirror -eR build/ www.jncf2019.uvsq.fr/public_html/; bye'
 
