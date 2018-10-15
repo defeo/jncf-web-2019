@@ -49,11 +49,16 @@ body.wide main {
 
 /******************************************************************/
 
-tr:nth-child(even) {
+thead {
+    background-color: #dbe7e7;
+    border-bottom: solid thin gray;
+}
+
+tbody tr:nth-child(even) {
   background-color: lightyellow;
 }
 
-tr:nth-child(odd) {
+tbody tr:nth-child(odd) {
   background-color: lightblue;
 }
 
