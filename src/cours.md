@@ -11,17 +11,17 @@ doctorants et post-doctorants.
 
 ### Aspects effectifs de la théorie des catégories
 
-par [Mohamed Barakat]() (University of Siegen, Allemagne)
+par [Mohamed Barakat](https://mohamed-barakat.github.io/) (University of Siegen, Allemagne)
 
 ### Codes correcteurs d'erreurs construits à partir de polynômes tordus
 
-par [Delphine Boucher]() (Université de Rennes)
+par [Delphine Boucher](https://perso.univ-rennes1.fr/delphine.boucher/) (Université de Rennes)
 
 ### Histoire de l'algèbre effective
 
-par [Catherine Goldstein]()
+par [Catherine Goldstein](https://webusers.imj-prg.fr/~catherine.goldstein/)
 (CNRS, Institut de Mathématiques de Jussieu – Paris Rive gauche)
 
 ### Méthodes algébriques pour les décompositions creuses
 
-par [Bernard Mourrain]() (Inria Sophia Antipolis – Méditerranée)
+par [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (Inria Sophia Antipolis – Méditerranée)
