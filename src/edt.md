@@ -18,7 +18,7 @@ layout: main.njk
 | 14:00 | Bernard Mourrain | - |
 | 15:30 | Pause | - |
 | 16:00 | Clément Pernet | - |
-| 16:30 | Jürgen Gerhard | Maple |
+| 16:30 | Jürgen Gerhard | Multivariate limit computations in Maple |
 | 17:00 | Luca de Feo | OpenDreamKit |
 | 17:30 | — | - |
 | 19:30 | Dîner | - |
