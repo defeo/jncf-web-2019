@@ -9,13 +9,13 @@ layout: main.njk
 ||||
 |-|-|-|
 |  8:50 | Bienvenue | - |
-|  9:00 | Catherine Goldstein | - |
+|  9:00 | Catherine Goldstein | Episodes dans l’histoire de l’algèbre effective |
 | 10:30 | Pause | - |
 | 11:00 | Yacine Bouzidi | Simple conditions for the intersection with polydisks |
 | 11:30 | Jouhayna Harmouch | - |
 | 12:00 | Victor Magron | On Exact Polya, Hilbert-Artin and Putinar's Representations |
 | 12:30 | Déjeuner | - |
-| 14:00 | Bernard Mourrain | - |
+| 14:00 | Bernard Mourrain | From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint |
 | 15:30 | Pause | - |
 | 16:00 | Clément Pernet | - |
 | 16:30 | Jürgen Gerhard | Multivariate limit computations in Maple |
@@ -28,13 +28,13 @@ layout: main.njk
 ||||
 |-|-|-|
 |  8:50 | Bienvenue | - |
-|  9:00 | Bernard Mourrain | - |
+|  9:00 | Bernard Mourrain | From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint |
 | 10:30 | Pause | - |
 | 11:00 | Matias Bender | Sparse Gröbner basis algorithms for solving polynomial systems |
 | 11:30 | Robin Larrieu | Fast Gröbner basis computation and polynomial reduction for generic bivariate ideals |
 | 12:00 | Thibaut Verron | Algorithme de Buchberger-Möller avec signatures pour le calcul de bases de Gröbner à coefficients dans un anneau principal |
 | 12:30 | Déjeuner | - |
-| 14:00 | Catherine Goldstein | - |
+| 14:00 | Catherine Goldstein | Episodes dans l’histoire de l’algèbre effective |
 | 15:30 | Pause | - |
 | 16:00 | Ali El Hajj | - |
 | 16:30 | V. Hoang Ngoc Minh | Un cas pratique de la théorie de Picard-Vessiot des équations différentielles non commutatives |
@@ -48,7 +48,7 @@ layout: main.njk
 ||||
 |-|-|-|
 |  8:50 | Bienvenue | - |
-|  9:00 | Delphine Boucher | - |
+|  9:00 | Delphine Boucher | Autour de codes définis à partir de polynômes tordus |
 | 10:30 | Pause | - |
 | 11:00 | Florent Bréhard | A computer-assisted proof for a new lower bound on H(4) in Hilbert’s sixteenth problem |
 | 11:30 | Guillaume Duchamp | Une théorie locale des polylogarithmes |
@@ -63,7 +63,7 @@ layout: main.njk
 ||||
 |-|-|-|
 |  8:50 | Bienvenue | - |
-|  9:00 | Delphine Boucher | - |
+|  9:00 | Delphine Boucher | Autour de codes définis à partir de polynômes tordus |
 | 10:30 | Pause | - |
 | 11:00 | Aude Le Gluher | Un algorithme géométrique efficace pour le calcul d’espaces de Riemann-Roch |
 | 11:30 | Adrien Poteaux | - |
