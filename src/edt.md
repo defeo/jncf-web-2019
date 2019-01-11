@@ -69,7 +69,7 @@ layout: main.njk
 | 11:30 | Adrien Poteaux | - |
 | 12:00 | Fatmanur Yıldırım | Implicit matrix representations via quadratic relations |
 | 12:30 | Déjeuner | - |
-| 14:00 | Mohamed Barakat | - |
+| 14:00 | Mohamed Barakat | Category theory as an abstract programming language |
 | 15:30 | Pause | - |
 | 16:00 | Leonardo Colo | - |
 | 16:30 | Jean Kieffer | Échange de clés à base de graphes d’isogénies CM sur un corps fini |
@@ -83,7 +83,7 @@ layout: main.njk
 ||||
 |-|-|-|
 |  8:50 | Bienvenue | - |
-|  9:00 | Mohamed Barakat | - |
+|  9:00 | Mohamed Barakat | Chevalley’s theorem on the image of a polynomial map made constructive |
 | 10:30 | Pause | - |
 | 11:00 | Cyrille Chenavier | Reduction operators and completion of linear rewriting systems |
 | 11:30 | André Galligo |   Ideal d'élimination et borne optimale pour une relation de Bézout |
