@@ -8,84 +8,80 @@ layout: main.njk
 
 ||||
 |-|-|-|
-|  8:50 | Bienvenue | - |
+|  8:50 | Bienvenue | |
 |  9:00 | Catherine Goldstein | Episodes dans l’histoire de l’algèbre effective |
-| 10:30 | Pause | - |
+| 10:30 | Pause | |
 | 11:00 | Yacine Bouzidi | Simple conditions for the intersection with polydisks |
-| 11:30 | Jouhayna Harmouch | - |
+| 11:30 | Jouhayna Harmouch | Structured low rank decomposition and completion of multivariate Hankel matrices |
 | 12:00 | Victor Magron | On Exact Polya, Hilbert-Artin and Putinar's Representations |
-| 12:30 | Déjeuner | - |
+| 12:30 | Déjeuner | |
 | 14:00 | Bernard Mourrain | From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint |
-| 15:30 | Pause | - |
-| 16:00 | Clément Pernet | - |
+| 15:30 | Pause | |
+| 16:00 | Clément Pernet | Parallel algorithms (OpenDreamKit) |
 | 16:30 | Jürgen Gerhard | Multivariate limit computations in Maple |
-| 17:00 | Luca de Feo | OpenDreamKit |
-| 17:30 | — | - |
-| 19:30 | Dîner | - |
+| 17:00 | Luca de Feo | CAS deployments (OpenDreamKit) |
+| 17:30 | — | — |
+| 19:30 | Dîner | ||
 
 ### Mardi
 
 ||||
 |-|-|-|
-|  8:50 | Bienvenue | - |
 |  9:00 | Bernard Mourrain | From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint |
-| 10:30 | Pause | - |
+| 10:30 | Pause | |
 | 11:00 | Matias Bender | Sparse Gröbner basis algorithms for solving polynomial systems |
 | 11:30 | Robin Larrieu | Fast Gröbner basis computation and polynomial reduction for generic bivariate ideals |
 | 12:00 | Thibaut Verron | Algorithme de Buchberger-Möller avec signatures pour le calcul de bases de Gröbner à coefficients dans un anneau principal |
-| 12:30 | Déjeuner | - |
+| 12:30 | Déjeuner | |
 | 14:00 | Catherine Goldstein | Episodes dans l’histoire de l’algèbre effective |
-| 15:30 | Pause | - |
-| 16:00 | Ali El Hajj | - |
+| 15:30 | Pause | |
+| 16:00 | Ali El Hajj | *K*-Simple forms for linear systems of differential and difference equations |
 | 16:30 | V. Hoang Ngoc Minh | Un cas pratique de la théorie de Picard-Vessiot des équations différentielles non commutatives |
 | 17:00 | François Ollivier | Endogène égale exogène en 2 commandes |
-| 17:30 | — | - |
-| 19:30 | Dîner | - |
+| 17:30 | — | — |
+| 19:30 | Dîner | ||
 
 
 ### Mercredi
 
 ||||
 |-|-|-|
-|  8:50 | Bienvenue | - |
 |  9:00 | Delphine Boucher | Autour de codes définis à partir de polynômes tordus |
-| 10:30 | Pause | - |
+| 10:30 | Pause | |
 | 11:00 | Florent Bréhard | A computer-assisted proof for a new lower bound on H(4) in Hilbert’s sixteenth problem |
 | 11:30 | Guillaume Duchamp | Une théorie locale des polylogarithmes |
-| 12:00 | Fredrik Johansson | - |
-| 12:30 | Déjeuner | - |
-|       | Libre | - |
-| 19:30 | Dîner | - |
+| 12:00 | Fredrik Johansson | — |
+| 12:30 | Déjeuner | |
+|       | Libre | |
+| 19:30 | Dîner | ||
 
 
 ### Jeudi
 
 ||||
 |-|-|-|
-|  8:50 | Bienvenue | - |
 |  9:00 | Delphine Boucher | Autour de codes définis à partir de polynômes tordus |
-| 10:30 | Pause | - |
+| 10:30 | Pause | |
 | 11:00 | Aude Le Gluher | Un algorithme géométrique efficace pour le calcul d’espaces de Riemann-Roch |
-| 11:30 | Adrien Poteaux | - |
+| 11:30 | Adrien Poteaux | Factorisation de pente généralisée |
 | 12:00 | Fatmanur Yıldırım | Implicit matrix representations via quadratic relations |
-| 12:30 | Déjeuner | - |
+| 12:30 | Déjeuner | |
 | 14:00 | Mohamed Barakat | Category theory as an abstract programming language |
-| 15:30 | Pause | - |
-| 16:00 | Leonardo Colo | - |
+| 15:30 | Pause | |
+| 16:00 | Leonardo Colo | Canonical *p*-adic lifts of supersingular isogeny graphs |
 | 16:30 | Jean Kieffer | Échange de clés à base de graphes d’isogénies CM sur un corps fini |
 | 17:00 | Ilaria Zappatore | Polynomial Linear System Solving with Errors by Simultaneous Polynomial Reconstruction of Interleaved Reed-Solomon Codes |
-| 17:30 | — | - |
-| 19:30 | Dîner | - |
+| 17:30 | — | — |
+| 19:30 | Dîner | ||
 
 
 ### Vendredi
 
 ||||
 |-|-|-|
-|  8:50 | Bienvenue | - |
 |  9:00 | Mohamed Barakat | Chevalley’s theorem on the image of a polynomial map made constructive |
-| 10:30 | Pause | - |
+| 10:30 | Pause | |
 | 11:00 | Cyrille Chenavier | Reduction operators and completion of linear rewriting systems |
 | 11:30 | André Galligo |   Ideal d'élimination et borne optimale pour une relation de Bézout |
-| 12:00 | — | - |
-| 12:30 | Déjeuner | - |
+| 12:00 | — | — |
+| 12:30 | Déjeuner | ||
