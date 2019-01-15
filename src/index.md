@@ -41,7 +41,7 @@ leur soutien :
 - [CIRM](https://www.cirm-math.com/),
 - Programme Écoles Thématiques du [CNRS](https://cnrs.fr/),
 - [GDR IM](https://www.gdr-im.fr/) du CNRS,
-- [INRIA](https://inria.fr/),
+- [INRIA](https://inria.fr/): centre national, équipes [GAIA](https://www.inria.fr/en/teams/gaia), [SpecFun](https://specfun.inria.fr/),
 - [MapleSoft](https://www.maplesoft.com/),
 - [OpenDreamKit](https://opendreamkit.org/).
 
