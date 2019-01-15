@@ -39,7 +39,7 @@ Le comité d'organisation des JNCF remercie les sponsors suivants pour
 leur soutien :
 
 - [CIRM](https://www.cirm-math.com/),
-- [CNRS](https://cnrs.fr/),
+- Programme Écoles Thématiques du [CNRS](https://cnrs.fr/),
 - [GDR IM](https://www.gdr-im.fr/) du CNRS,
 - [INRIA](https://inria.fr/),
 - [MapleSoft](https://www.maplesoft.com/),
