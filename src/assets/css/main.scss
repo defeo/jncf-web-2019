@@ -23,6 +23,18 @@ nav {
 	display: block;
 	padding: 5px 1em;
     }
+
+}
+
+#sponsors {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    img {
+	display: block;
+	max-height: 2em;
+	margin: 1em 2px;
+    }
 }
 
 @media (min-width: 600px) {
@@ -39,6 +51,14 @@ nav {
 	border-bottom: none;
 	li {
 	    padding: 1em;
+	}
+    }
+    #sponsors {
+	flex-flow: row wrap;
+	img {
+	    flex: 0 0 5em;
+	    max-height: 5em;
+	    height: auto;
 	}
     }
 }
@@ -104,4 +124,3 @@ footer {
 ul {
     padding-left: 2em;
 }
-

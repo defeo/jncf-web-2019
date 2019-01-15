@@ -27,6 +27,7 @@ L'organisation des JNCF 2019 est assurée par :
 - [Xavier Caruso](http://xavier.toonywood.org/) – Université de Rennes 1,
 - [Luca De Feo](http://defeo.lu/) – Université de Versailles-Saint Quentin & Inria Saclay,
 - [Mioara Joldes](http://homepages.laas.fr/mmjoldes/) – Université de Toulouse,
+- Catherine Le Quéré – Secrétariat LMV, Université de Versailles-Saint Quentin,
 - [Alban Quadrat](http://chercheurs.lille.inria.fr/aquadrat/) – Inria Lille - Nord Europe,
 - [Éric Schost](https://cs.uwaterloo.ca/~eschost/) – University Waterloo, Canada.
 
@@ -34,11 +35,15 @@ L'organisation des JNCF 2019 est assurée par :
 
 ## Soutiens
 
-Le comité d'organisation des JNCF remercie les organismes suivants
-pour leur soutien :
+Le comité d'organisation des JNCF remercie les sponsors suivants pour
+leur soutien :
 
-- [CIRM](http://www.cirm-math.com/),
-- [INRIA](http://www.inria.fr/).
+- [CIRM](https://www.cirm-math.com/),
+- [CNRS](https://cnrs.fr/),
+- [GDR IM](https://www.gdr-im.fr/) du CNRS,
+- [INRIA](https://inria.fr/),
+- [MapleSoft](https://www.maplesoft.com/),
+- [OpenDreamKit](https://opendreamkit.org/).
 
 ## Précédentes éditions
 
