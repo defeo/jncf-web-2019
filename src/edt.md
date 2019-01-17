@@ -71,7 +71,8 @@ layout: main.njk
 | 16:00 | Leonardo Colo | Canonical *p*-adic lifts of supersingular isogeny graphs |
 | 16:30 | Jean Kieffer | Échange de clés à base de graphes d’isogénies CM sur un corps fini |
 | 17:00 | Ilaria Zappatore | Polynomial Linear System Solving with Errors by Simultaneous Polynomial Reconstruction of Interleaved Reed-Solomon Codes |
-| 17:30 | — | — |
+| 17:30 | | ~~Pause~~ |
+| 17:45 | | Table ronde |
 | 19:30 | | ~~Dîner~~ |
 
 
