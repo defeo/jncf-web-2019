@@ -17,10 +17,10 @@ layout: main.njk
 | 12:30 | | ~~Déjeuner~~ |
 | 14:00 | Bernard Mourrain | From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint |
 | 15:30 | | ~~Pause~~ |
-| 16:00 | Clément Pernet | Parallel algorithms (OpenDreamKit) |
-| 16:30 | Jürgen Gerhard | Multivariate limit computations in Maple |
-| 17:00 | Luca De Feo | CAS deployments (OpenDreamKit) |
-| 17:30 | — | — |
+| 16:00 | Luca De Feo | CAS deployments (OpenDreamKit) |
+| 16:30 | Clément Pernet | Parallel algorithms (OpenDreamKit) |
+| 17:00 | Jürgen Gerhard | Multivariate limit computations in Maple |
+| 17:30 | | Developer's meeting |
 | 19:30 | | ~~Dîner~~ |
 
 ### Mardi
@@ -38,7 +38,7 @@ layout: main.njk
 | 16:00 | Ali El Hajj | *K*-Simple forms for linear systems of differential and difference equations |
 | 16:30 | Gérard Duchamp | Une théorie locale des polylogarithmes |
 | 17:00 | François Ollivier | Endogène égale exogène en 2 commandes |
-| 17:30 | — | — |
+| 17:30 | | Annonces à la communauté |
 | 19:30 | | ~~Dîner~~ |
 
 
