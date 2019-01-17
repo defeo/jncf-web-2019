@@ -36,7 +36,7 @@ layout: main.njk
 | 14:00 | Catherine Goldstein | Episodes dans l’histoire de l’algèbre effective |
 | 15:30 | | ~~Pause~~ |
 | 16:00 | Ali El Hajj | *K*-Simple forms for linear systems of differential and difference equations |
-| 16:30 | V. Hoang Ngoc Minh | Un cas pratique de la théorie de Picard-Vessiot des équations différentielles non commutatives |
+| 16:30 | Gérard Duchamp | Une théorie locale des polylogarithmes |
 | 17:00 | François Ollivier | Endogène égale exogène en 2 commandes |
 | 17:30 | — | — |
 | 19:30 | | ~~Dîner~~ |
@@ -49,8 +49,8 @@ layout: main.njk
 |  9:00 | Delphine Boucher | Autour de codes définis à partir de polynômes tordus |
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Florent Bréhard | A computer-assisted proof for a new lower bound on H(4) in Hilbert’s sixteenth problem |
-| 11:30 | Guillaume Duchamp | Une théorie locale des polylogarithmes |
-| 12:00 | Fredrik Johansson | — |
+| 11:30 | Vincel Hoang Ngoc Minh | Un cas pratique de la théorie de Picard-Vessiot des équations différentielles non commutatives |
+| 12:00 | – | — |
 | 12:30 | | ~~Déjeuner~~ |
 |       | | ~~Libre~~ |
 | 19:30 | | ~~Dîner~~ |
