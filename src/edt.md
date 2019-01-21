@@ -68,7 +68,7 @@ layout: main.njk
 | 12:30 | | ~~Déjeuner~~ |
 | 14:00 | Mohamed Barakat | Category theory as an abstract programming language |
 | 15:30 | | ~~Pause~~ |
-| 16:00 | Leonardo Colo | Canonical *p*-adic lifts of supersingular isogeny graphs |
+| 16:00 | Leonardo Colò | Orienting supersingular isogeny graphs |
 | 16:30 | Jean Kieffer | Échange de clés à base de graphes d’isogénies CM sur un corps fini |
 | 17:00 | Ilaria Zappatore | Polynomial Linear System Solving with Errors by Simultaneous Polynomial Reconstruction of Interleaved Reed-Solomon Codes |
 | 17:30 | | ~~Pause~~ |
