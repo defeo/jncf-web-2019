@@ -50,7 +50,7 @@ layout: main.njk
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Florent Bréhard | [A computer-assisted proof for a new lower bound on H(4) in Hilbert’s sixteenth problem](program/abs-brehard.pdf) |
 | 11:30 | Vincel Hoang Ngoc Minh | [Un cas pratique de la théorie de Picard-Vessiot des équations différentielles non commutatives](program/abs-minh.pdf) |
-| 12:00 | – | — |
+| 12:00 | David Lucas | — |
 | 12:30 | | ~~Déjeuner~~ |
 |       | | ~~Libre~~ |
 | 19:30 | | ~~Dîner~~ |
@@ -68,7 +68,7 @@ layout: main.njk
 | 12:30 | | ~~Déjeuner~~ |
 | 14:00 | Mohamed Barakat | Category theory as an abstract programming language |
 | 15:30 | | ~~Pause~~ |
-| 16:00 | Leonardo Colo | Canonical *p*-adic lifts of supersingular isogeny graphs |
+| 16:00 | Leonardo Colò | Orienting supersingular isogeny graphs |
 | 16:30 | Jean Kieffer | [Échange de clés à base de graphes d’isogénies CM sur un corps fini](program/abs-kieffer.pdf) |
 | 17:00 | Ilaria Zappatore | [Polynomial Linear System Solving with Errors by Simultaneous Polynomial Reconstruction of Interleaved Reed-Solomon Codes](program/abs-zappatore.pdf) |
 | 17:30 | | ~~Pause~~ |
