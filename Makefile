@@ -1,5 +1,5 @@
 build: node_modules/.installed
-	/home/xcaruso/bin/node config.js
+	node config.js
 
 install: node_modules/.installed
 
@@ -7,7 +7,7 @@ watch:
 	while inotifywait -e close_write,moved_to,create -r .; do make build; done
 
 node_modules/.installed: package.json
-	/home/xcaruso/bin/npm install
+	npm install
 	touch node_modules/.installed
 
 clean:
