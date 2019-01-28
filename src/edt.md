@@ -31,7 +31,7 @@ layout: main.njk
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Matias Bender | [Sparse Gröbner basis algorithms for solving polynomial systems](program/abs-bender.pdf) |
 | 11:30 | Robin Larrieu | [Fast Gröbner basis computation and polynomial reduction for generic bivariate ideals](program/abs-larrieu.pdf) |
-| 12:00 | Thibaut Verron | [Algorithme de Buchberger-Möller avec signatures pour le calcul de bases de Gröbner à coefficients dans un anneau principal](program/abs-verron.pdf) |
+| 12:00 | Thibaut Verron | [Algorithme de Möller avec signatures pour le calcul de bases de Gröbner fortes à coefficients dans un anneau principal](program/abs-verron.pdf) |
 | 12:30 | | ~~Déjeuner~~ |
 | 14:00 | Catherine Goldstein | Episodes dans l’histoire de l’algèbre effective |
 | 15:30 | | ~~Pause~~ |
