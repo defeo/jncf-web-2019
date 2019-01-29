@@ -50,7 +50,7 @@ layout: main.njk
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Florent Bréhard | [A computer-assisted proof for a new lower bound on H(4) in Hilbert’s sixteenth problem](program/abs-brehard.pdf) |
 | 11:30 | Vincel Hoang Ngoc Minh | [Un cas pratique de la théorie de Picard-Vessiot des équations différentielles non commutatives](program/abs-minh.pdf) |
-| 12:00 | David Lucas | — |
+| 12:00 | David Lucas | [Secure Multi-Party Matrix Multiplication Based on Strassen-Winograd Algorithm](program/abs-lucas.pdf) |
 | 12:30 | | ~~Déjeuner~~ |
 |       | | ~~Libre~~ |
 | 19:30 | | ~~Dîner~~ |
