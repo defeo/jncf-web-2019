@@ -29,7 +29,7 @@ layout: main.njk
 |-|-|-|
 |  9:00 | Bernard Mourrain | From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint |
 | 10:30 | | ~~Pause~~ |
-| 11:00 | Matias Bender | [Sparse Gröbner basis algorithms for solving polynomial systems](program/abs-bender.pdf) |
+| 11:00 | Édouard Rousseau | [Standard lattices of compatibly embedded finite fields](program/abs-rousseau.pdf) |
 | 11:30 | Robin Larrieu | [Fast Gröbner basis computation and polynomial reduction for generic bivariate ideals](program/abs-larrieu.pdf) |
 | 12:00 | Thibaut Verron | [Algorithme de Möller avec signatures pour le calcul de bases de Gröbner fortes à coefficients dans un anneau principal](program/abs-verron.pdf) |
 | 12:30 | | ~~Déjeuner~~ |
@@ -38,7 +38,6 @@ layout: main.njk
 | 16:00 | Ali El Hajj | [Simple forms for pseudo-linear systems](program/abs-elhajj.pdf) |
 | 16:30 | Gérard Duchamp | [Une théorie locale des polylogarithmes](program/abs-duchamp.pdf) |
 | 17:00 | François Ollivier | [Endogène égale exogène en 2 commandes](program/abs-ollivier.pdf) |
-| 17:30 | Édouard Rousseau | [Standard lattices of compatibly embedded finite fields](program/abs-rousseau.pdf) |
 | 18:00 | | Annonces à la communauté |
 | 19:30 | | ~~Dîner~~ |
 
@@ -85,5 +84,5 @@ layout: main.njk
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Cyrille Chenavier | [Reduction operators and completion of linear rewriting systems](program/abs-chenavier.pdf) |
 | 11:30 | André Galligo | [Ideal d'élimination et borne optimale pour une relation de Bézout](program/abs-galligo.pdf) |
-| 12:00 | — | — |
+| 12:00 | Matias Bender | [Sparse Gröbner basis algorithms for solving polynomial systems](program/abs-bender.pdf) |
 | 12:30 | | ~~Déjeuner~~ |
