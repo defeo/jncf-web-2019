@@ -25,3 +25,5 @@ par [Catherine Goldstein](https://webusers.imj-prg.fr/~catherine.goldstein/)
 ### Méthodes algébriques pour les décompositions creuses
 
 par [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (Inria Sophia Antipolis – Méditerranée)
+
+[Télécharger](program/notes-mourrain.pdf) les notes de cours.

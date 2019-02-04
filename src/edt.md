@@ -15,7 +15,7 @@ layout: main.njk
 | 11:30 | Jouhayna Harmouch | [Structured low rank decomposition and completion of multivariate Hankel matrices](program/abs-harmouch.pdf) |
 | 12:00 | Victor Magron | [On Exact Polya, Hilbert-Artin and Putinar's Representations](program/abs-magron.pdf) |
 | 12:30 | | ~~Déjeuner~~ |
-| 14:00 | Bernard Mourrain | From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint |
+| 14:00 | Bernard Mourrain | From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint  [[notes](program/notes-mourrain.pdf)] |
 | 15:30 | | ~~Pause~~ |
 | 16:00 | Luca De Feo | CAS deployments (OpenDreamKit) |
 | 16:30 | Clément Pernet | Parallel algorithms (OpenDreamKit) |
@@ -27,7 +27,7 @@ layout: main.njk
 
 ||||
 |-|-|-|
-|  9:00 | Bernard Mourrain | From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint |
+|  9:00 | Bernard Mourrain | From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint [[notes](program/notes-mourrain.pdf)] |
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Édouard Rousseau | [Standard lattices of compatibly embedded finite fields](program/abs-rousseau.pdf) |
 | 11:30 | Robin Larrieu | [Fast Gröbner basis computation and polynomial reduction for generic bivariate ideals](program/abs-larrieu.pdf) |
