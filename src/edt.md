@@ -17,7 +17,7 @@ layout: main.njk
 | 12:30 | | ~~Déjeuner~~ |
 | 14:00 | Bernard Mourrain | [From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint](program/notes-mourrain.pdf) |
 | 15:30 | | ~~Pause~~ |
-| 16:00 | Luca De Feo | Presentation of OpenDreamKit and some highlights |
+| 16:00 | Luca De Feo | [Presentation of OpenDreamKit and some highlights](https://github.com/defeo/jncf-web-2019/blob/odk-jncf/opendreamkit-jncf.ipynb) |
 | 16:30 | Clément Pernet | [High Performance Mathematical Computing (OpenDreamKit, WP5)](program/slides-pernet.pdf) |
 | 17:00 | Jürgen Gerhard | Multivariate limit computations in Maple |
 | 17:30 | | Developer's meeting |
