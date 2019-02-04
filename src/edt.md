@@ -29,16 +29,18 @@ layout: main.njk
 |-|-|-|
 |  9:00 | Bernard Mourrain | [From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint](program/notes-mourrain.pdf) |
 | 10:30 | | ~~Pause~~ |
-| 11:00 | Édouard Rousseau | [Standard lattices of compatibly embedded finite fields](program/abs-rousseau.pdf) |
-| 11:30 | Robin Larrieu | [Fast Gröbner basis computation and polynomial reduction for generic bivariate ideals](program/abs-larrieu.pdf) |
+| 11:00 | Pierre-Vincent Koseleff | The lexicographic degree of 2-bridge knots |
+| 11:30 | Robin Larrieu | [Fast Gröbner basis computation and polynomial reduction for generic bivariate ideals](program/abs-larrieu.pdf) **[slides](program/slides-larrieu.pdf)** |
 | 12:00 | Thibaut Verron | [Algorithme de Möller avec signatures pour le calcul de bases de Gröbner fortes à coefficients dans un anneau principal](program/abs-verron.pdf) |
 | 12:30 | | ~~Déjeuner~~ |
 | 14:00 | Catherine Goldstein | Episodes dans l’histoire de l’algèbre effective |
 | 15:30 | | ~~Pause~~ |
 | 16:00 | Ali El Hajj | [Simple forms for pseudo-linear systems](program/abs-elhajj.pdf) **[slides](program/slides-elhajj.pdf)** |
-| 16:30 | Gérard Duchamp | [Une théorie locale des polylogarithmes](program/abs-duchamp.pdf) |
-| 17:00 | François Ollivier | [Endogène égale exogène en 2 commandes](program/abs-ollivier.pdf) |
-| 18:00 | | Annonces à la communauté |
+| 16:30 | Gérard Duchamp | [Une théorie locale des polylogarithmes](program/abs-duchamp.pdf) [slides](program/slides-duchamp.pdf) |
+| 17:00 | | ~~Pause~~ |
+| 17:15 | François Ollivier | [Endogène égale exogène en 2 commandes](program/abs-ollivier.pdf) |
+| 17:45 | Édouard Rousseau | [Standard lattices of compatibly embedded finite fields](program/abs-rousseau.pdf) |
+| 18:15 | | Annonces à la communauté |
 | 19:30 | | ~~Dîner~~ |
 
 
