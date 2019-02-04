@@ -9,7 +9,7 @@ layout: main.njk
 ||||
 |-|-|-|
 |  8:50 | | Bienvenue |
-|  9:00 | Catherine Goldstein | Episodes dans l’histoire de l’algèbre effective |
+|  9:00 | Catherine Goldstein | Episodes dans l’histoire de l’algèbre effective **[slides](program/notes-goldstein.pdf)** |
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Yacine Bouzidi | [Simple conditions for the intersection with polydisks](program/abs-bender.pdf) **[slides](program/slides-bouzidi.pdf)** |
 | 11:30 | Jouhayna Harmouch | [Structured low rank decomposition and completion of multivariate Hankel matrices](program/abs-harmouch.pdf) **[slides](program/slides-harmouch.pdf)** |

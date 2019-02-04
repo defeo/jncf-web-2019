@@ -22,6 +22,8 @@ par [Delphine Boucher](https://perso.univ-rennes1.fr/delphine.boucher/) (Univers
 par [Catherine Goldstein](https://webusers.imj-prg.fr/~catherine.goldstein/)
 (CNRS, Institut de Mathématiques de Jussieu – Paris Rive gauche)
 
+Slides: [première partie](program/notes-goldstein.pdf)
+
 ### Méthodes algébriques pour les décompositions creuses
 
 par [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (Inria Sophia Antipolis – Méditerranée)
