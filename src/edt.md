@@ -35,7 +35,7 @@ layout: main.njk
 | 12:30 | | ~~Déjeuner~~ |
 | 14:00 | Catherine Goldstein | Episodes dans l’histoire de l’algèbre effective |
 | 15:30 | | ~~Pause~~ |
-| 16:00 | Ali El Hajj | [Simple forms for pseudo-linear systems](program/abs-elhajj.pdf) |
+| 16:00 | Ali El Hajj | [Simple forms for pseudo-linear systems](program/abs-elhajj.pdf) **[slides](program/slides-elhajj.pdf)** |
 | 16:30 | Gérard Duchamp | [Une théorie locale des polylogarithmes](program/abs-duchamp.pdf) |
 | 17:00 | François Ollivier | [Endogène égale exogène en 2 commandes](program/abs-ollivier.pdf) |
 | 18:00 | | Annonces à la communauté |
