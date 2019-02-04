@@ -13,7 +13,7 @@ layout: main.njk
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Yacine Bouzidi | [Simple conditions for the intersection with polydisks](program/abs-bender.pdf) **[slides](program/slides-bouzidi.pdf)** |
 | 11:30 | Jouhayna Harmouch | [Structured low rank decomposition and completion of multivariate Hankel matrices](program/abs-harmouch.pdf) |
-| 12:00 | Victor Magron | [On Exact Polya, Hilbert-Artin and Putinar's Representations](program/abs-magron.pdf) |
+| 12:00 | Victor Magron | [On Exact Polya, Hilbert-Artin and Putinar's Representations](program/abs-magron.pdf) **[slides](program/slides-magron.pdf)** |
 | 12:30 | | ~~Déjeuner~~ |
 | 14:00 | Bernard Mourrain | [From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint](program/notes-mourrain.pdf) |
 | 15:30 | | ~~Pause~~ |
@@ -62,7 +62,7 @@ layout: main.njk
 |-|-|-|
 |  9:00 | Delphine Boucher | Autour de codes définis à partir de polynômes tordus |
 | 10:30 | | ~~Pause~~ |
-| 11:00 | Aude Le Gluher | [Un algorithme géométrique efficace pour le calcul d’espaces de Riemann-Roch](program/abs-legluher.pdf) |
+| 11:00 | Aude Le Gluher | [Un algorithme géométrique efficace pour le calcul d’espaces de Riemann-Roch](program/abs-legluher.pdf) **[slides](program/slides-legluher.pdf)** |
 | 11:30 | Adrien Poteaux | [Factoring polynomials over discrete valuation rings](program/abs-poteaux.pdf) |
 | 12:00 | Fatmanur Yıldırım | [Implicit matrix representations via quadratic relations](program/abs-yildirim.pdf) |
 | 12:30 | | ~~Déjeuner~~ |
