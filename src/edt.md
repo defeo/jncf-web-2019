@@ -83,6 +83,6 @@ layout: main.njk
 |  9:00 | Mohamed Barakat | Chevalley’s theorem on the image of a polynomial map made constructive |
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Cyrille Chenavier | [Reduction operators and completion of linear rewriting systems](program/abs-chenavier.pdf) |
-| 11:30 | André Galligo | [Ideal d'élimination et borne optimale pour une relation de Bézout](program/abs-galligo.pdf) |
+| 11:30 | André Galligo | [Ideal d'élimination et borne optimale pour une relation de Bézout](program/abs-galligo.pdf) **[slides](program/slides-galligo.pdf)** |
 | 12:00 | Matias Bender | [Sparse Gröbner basis algorithms for solving polynomial systems](program/abs-bender.pdf) |
 | 12:30 | | ~~Déjeuner~~ |
