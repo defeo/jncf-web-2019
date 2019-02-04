@@ -2,3 +2,5 @@ ipywidgets
 RISE
 Pillow
 matplotlib
+numpy
+scipy
