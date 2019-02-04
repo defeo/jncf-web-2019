@@ -27,7 +27,7 @@ layout: main.njk
 
 ||||
 |-|-|-|
-|  9:00 | Bernard Mourrain | From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint [[notes](program/notes-mourrain.pdf)] |
+|  9:00 | Bernard Mourrain | [From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint](program/notes-mourrain.pdf) |
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Édouard Rousseau | [Standard lattices of compatibly embedded finite fields](program/abs-rousseau.pdf) |
 | 11:30 | Robin Larrieu | [Fast Gröbner basis computation and polynomial reduction for generic bivariate ideals](program/abs-larrieu.pdf) |
