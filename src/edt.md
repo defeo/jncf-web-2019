@@ -29,7 +29,7 @@ layout: main.njk
 |-|-|-|
 |  9:00 | Bernard Mourrain | [From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint](program/notes-mourrain.pdf) |
 | 10:30 | | ~~Pause~~ |
-| 11:00 | Pierre-Vincent Koseleff | The lexicographic degree of 2-bridge knots |
+| 11:00 | Pierre-Vincent Koseleff | The lexicographic degree of 2-bridge knots **[slides](program/slides-koseleff.pdf)** |
 | 11:30 | Robin Larrieu | [Fast Gröbner basis computation and polynomial reduction for generic bivariate ideals](program/abs-larrieu.pdf) **[slides](program/slides-larrieu.pdf)** |
 | 12:00 | Thibaut Verron | [Algorithme de Möller avec signatures pour le calcul de bases de Gröbner fortes à coefficients dans un anneau principal](program/abs-verron.pdf) |
 | 12:30 | | ~~Déjeuner~~ |
