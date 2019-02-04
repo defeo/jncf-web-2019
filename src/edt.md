@@ -12,7 +12,7 @@ layout: main.njk
 |  9:00 | Catherine Goldstein | Episodes dans l’histoire de l’algèbre effective |
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Yacine Bouzidi | [Simple conditions for the intersection with polydisks](program/abs-bender.pdf) **[slides](program/slides-bouzidi.pdf)** |
-| 11:30 | Jouhayna Harmouch | [Structured low rank decomposition and completion of multivariate Hankel matrices](program/abs-harmouch.pdf) |
+| 11:30 | Jouhayna Harmouch | [Structured low rank decomposition and completion of multivariate Hankel matrices](program/abs-harmouch.pdf) **[slides](program/slides-harmouch.pdf)** |
 | 12:00 | Victor Magron | [On Exact Polya, Hilbert-Artin and Putinar's Representations](program/abs-magron.pdf) **[slides](program/slides-magron.pdf)** |
 | 12:30 | | ~~Déjeuner~~ |
 | 14:00 | Bernard Mourrain | [From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint](program/notes-mourrain.pdf) |
