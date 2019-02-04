@@ -101,6 +101,19 @@ td > del {
     color: #666;
 }
 
+td > strong {
+    &:before {
+	content: '[';
+    }
+    &:after {
+	content: ']';
+    }
+    display: inline-block;
+    float: right;
+    margin-right: 1ex;
+    font-weight: normal;
+}
+
 p, table {
   margin-left: 1em;
   margin-right: 1em;
