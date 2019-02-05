@@ -36,7 +36,7 @@ layout: main.njk
 | 14:00 | Catherine Goldstein | Episodes dans l’histoire de l’algèbre effective |
 | 15:30 | | ~~Pause~~ |
 | 16:00 | Ali El Hajj | [Simple forms for pseudo-linear systems](program/abs-elhajj.pdf) **[slides](program/slides-elhajj.pdf)** |
-| 16:30 | Gérard Duchamp | [Une théorie locale des polylogarithmes](program/abs-duchamp.pdf) [slides](program/slides-duchamp.pdf) |
+| 16:30 | Gérard Duchamp | [Une théorie locale des polylogarithmes](program/abs-duchamp.pdf) **[slides](program/slides-duchamp.pdf)** |
 | 17:00 | | ~~Pause~~ |
 | 17:15 | François Ollivier | [Endogène égale exogène en 2 commandes](program/abs-ollivier.pdf) |
 | 17:45 | Édouard Rousseau | [Standard lattices of compatibly embedded finite fields](program/abs-rousseau.pdf) |
