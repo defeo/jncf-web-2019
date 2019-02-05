@@ -15,7 +15,7 @@ layout: main.njk
 | 11:30 | Jouhayna Harmouch | [Structured low rank decomposition and completion of multivariate Hankel matrices](program/abs-harmouch.pdf) **[slides](program/slides-harmouch.pdf)** |
 | 12:00 | Victor Magron | [On Exact Polya, Hilbert-Artin and Putinar's Representations](program/abs-magron.pdf) **[slides](program/slides-magron.pdf)** |
 | 12:30 | | ~~Déjeuner~~ |
-| 14:00 | Bernard Mourrain | [From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint](program/notes-mourrain.pdf) |
+| 14:00 | Bernard Mourrain | [From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint](program/notes-mourrain.pdf) **[slides](program/slides-mourrain.pdf)** **[code](http://www-sop.inria.fr/members/Bernard.Mourrain/software/TensorDec/expl/0.Decomposition.html)** |
 | 15:30 | | ~~Pause~~ |
 | 16:00 | Luca De Feo | [Presentation of OpenDreamKit and some highlights](https://github.com/defeo/jncf-web-2019/blob/odk-jncf/opendreamkit-jncf.ipynb) |
 | 16:30 | Clément Pernet | [High Performance Mathematical Computing (OpenDreamKit, WP5)](program/slides-pernet.pdf) |
@@ -27,7 +27,7 @@ layout: main.njk
 
 ||||
 |-|-|-|
-|  9:00 | Bernard Mourrain | [From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint](program/notes-mourrain.pdf) |
+|  9:00 | Bernard Mourrain | [From moments to sparse representations, an algebraic, geometric and algorithmic viewpoint](program/notes-mourrain.pdf) **[slides](program/slides-mourrain.pdf)** **[code](http://www-sop.inria.fr/members/Bernard.Mourrain/software/TensorDec/expl/0.Decomposition.html)** |
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Pierre-Vincent Koseleff | The lexicographic degree of 2-bridge knots **[slides](program/slides-koseleff.pdf)** |
 | 11:30 | Robin Larrieu | [Fast Gröbner basis computation and polynomial reduction for generic bivariate ideals](program/abs-larrieu.pdf) **[slides](program/slides-larrieu.pdf)** |
