@@ -38,7 +38,7 @@ layout: main.njk
 | 16:00 | Ali El Hajj | [Simple forms for pseudo-linear systems](program/abs-elhajj.pdf) |
 | 16:30 | Gérard Duchamp | [Une théorie locale des polylogarithmes](program/abs-duchamp.pdf) |
 | 17:00 | François Ollivier | [Endogène égale exogène en 2 commandes](program/abs-ollivier.pdf) |
-| 18:00 | | Annonces à la communauté |
+| 18:00 | | Annonces à la communauté **[slides](program/annonces.pdf)** |
 | 19:30 | | ~~Dîner~~ |
 
 
