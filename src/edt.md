@@ -38,8 +38,8 @@ layout: main.njk
 | 16:00 | Ali El Hajj | [Simple forms for pseudo-linear systems](program/abs-elhajj.pdf) **[slides](program/slides-elhajj.pdf)** |
 | 16:30 | Gérard Duchamp | [Une théorie locale des polylogarithmes](program/abs-duchamp.pdf) **[slides](program/slides-duchamp.pdf)** |
 | 17:00 | | ~~Pause~~ |
-| 17:15 | François Ollivier | [Endogène égale exogène en 2 commandes](program/abs-ollivier.pdf) |
-| 17:45 | Édouard Rousseau | [Standard lattices of compatibly embedded finite fields](program/abs-rousseau.pdf) |
+| 17:15 | François Ollivier | [Endogène égale exogène en 2 commandes](program/abs-ollivier.pdf) **[slides](program/slides-ollivier.pdf)** |
+| 17:45 | Édouard Rousseau | [Standard lattices of compatibly embedded finite fields](program/abs-rousseau.pdf) **[slides](program/slides-rousseau.pdf)** |
 | 18:15 | | Annonces à la communauté |
 | 19:30 | | ~~Dîner~~ |
 
