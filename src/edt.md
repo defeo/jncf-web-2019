@@ -51,7 +51,7 @@ layout: main.njk
 |  9:00 | Delphine Boucher | Autour de codes définis à partir de polynômes tordus |
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Florent Bréhard | [A computer-assisted proof for a new lower bound on H(4) in Hilbert’s sixteenth problem](program/abs-brehard.pdf) **[slides](program/slides-brehard.pdf)** |
-| 11:30 | Vincel Hoang Ngoc Minh | [Un cas pratique de la théorie de Picard-Vessiot des équations différentielles non commutatives](program/abs-minh.pdf) **[slides](program/abs-minh.pdf)** |
+| 11:30 | Vincel Hoang Ngoc Minh | [Un cas pratique de la théorie de Picard-Vessiot des équations différentielles non commutatives](program/abs-minh.pdf) **[slides](program/slides-minh.pdf)** |
 | 12:00 | – | – |
 | 12:30 | | ~~Déjeuner~~ |
 |       | | ~~Libre~~ |
@@ -65,7 +65,7 @@ layout: main.njk
 |  9:00 | Delphine Boucher | Autour de codes définis à partir de polynômes tordus |
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Aude Le Gluher | [Un algorithme géométrique efficace pour le calcul d’espaces de Riemann-Roch](program/abs-legluher.pdf) **[slides](program/slides-legluher.pdf)** |
-| 11:30 | Adrien Poteaux | [Factoring polynomials over discrete valuation rings](program/abs-poteaux.pdf) |
+| 11:30 | Adrien Poteaux | [Factoring polynomials over discrete valuation rings](program/abs-poteaux.pdf) **[slides](program/slides-poteaux.pdf)** |
 | 12:00 | Fatmanur Yıldırım | [Implicit matrix representations via quadratic relations](program/abs-yildirim.pdf) |
 | 12:30 | | ~~Déjeuner~~ |
 | 14:00 | Mohamed Barakat | Category theory as an abstract programming language |
