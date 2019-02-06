@@ -33,7 +33,7 @@ layout: main.njk
 | 11:30 | Robin Larrieu | [Fast Gröbner basis computation and polynomial reduction for generic bivariate ideals](program/abs-larrieu.pdf) **[slides](program/slides-larrieu.pdf)** |
 | 12:00 | Thibaut Verron | [Algorithme de Möller avec signatures pour le calcul de bases de Gröbner fortes à coefficients dans un anneau principal](program/abs-verron.pdf) **[slides](program/slides-verron.pdf)** |
 | 12:30 | | ~~Déjeuner~~ |
-| 14:00 | Catherine Goldstein | Episodes dans l’histoire de l’algèbre effective |
+| 14:00 | Catherine Goldstein | Episodes dans l’histoire de l’algèbre effective **[slides](program/notes-goldstein.pdf)** |
 | 15:30 | | ~~Pause~~ |
 | 16:00 | Ali El Hajj | [Simple forms for pseudo-linear systems](program/abs-elhajj.pdf) **[slides](program/slides-elhajj.pdf)** |
 | 16:30 | Gérard Duchamp | [Une théorie locale des polylogarithmes](program/abs-duchamp.pdf) **[slides](program/slides-duchamp.pdf)** |
@@ -50,7 +50,7 @@ layout: main.njk
 |-|-|-|
 |  9:00 | Delphine Boucher | Autour de codes définis à partir de polynômes tordus |
 | 10:30 | | ~~Pause~~ |
-| 11:00 | Florent Bréhard | [A computer-assisted proof for a new lower bound on H(4) in Hilbert’s sixteenth problem](program/abs-brehard.pdf) |
+| 11:00 | Florent Bréhard | [A computer-assisted proof for a new lower bound on H(4) in Hilbert’s sixteenth problem](program/abs-brehard.pdf) **[slides](program/slides-brehard.pdf)** |
 | 11:30 | Vincel Hoang Ngoc Minh | [Un cas pratique de la théorie de Picard-Vessiot des équations différentielles non commutatives](program/abs-minh.pdf) |
 | 12:00 | – | – |
 | 12:30 | | ~~Déjeuner~~ |
