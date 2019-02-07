@@ -66,7 +66,7 @@ layout: main.njk
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Aude Le Gluher | [Un algorithme géométrique efficace pour le calcul d’espaces de Riemann-Roch](program/abs-legluher.pdf) **[slides](program/slides-legluher.pdf)** |
 | 11:30 | Adrien Poteaux | [Factoring polynomials over discrete valuation rings](program/abs-poteaux.pdf) **[slides](program/slides-poteaux.pdf)** |
-| 12:00 | Fatmanur Yıldırım | [Implicit matrix representations via quadratic relations](program/abs-yildirim.pdf) |
+| 12:00 | Fatmanur Yıldırım | [Implicit matrix representations via quadratic relations](program/abs-yildirim.pdf) **[slides](program/slides-yildirim.pdf)** |
 | 12:30 | | ~~Déjeuner~~ |
 | 14:00 | Mohamed Barakat | Category theory as an abstract programming language |
 | 15:30 | | ~~Pause~~ |
