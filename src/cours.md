@@ -17,12 +17,14 @@ par [Mohamed Barakat](https://mohamed-barakat.github.io/) (University of Siegen,
 
 par [Delphine Boucher](https://perso.univ-rennes1.fr/delphine.boucher/) (Université de Rennes)
 
+> Les [slides](program/notes-boucher.pdf).
+
 ### Histoire de l'algèbre effective
 
 par [Catherine Goldstein](https://webusers.imj-prg.fr/~catherine.goldstein/)
 (CNRS, Institut de Mathématiques de Jussieu – Paris Rive gauche)
 
-> Les slides: [première partie](program/notes-goldstein.pdf).
+> Les [slides](program/notes-goldstein.pdf).
 
 ### Méthodes algébriques pour les décompositions creuses
 

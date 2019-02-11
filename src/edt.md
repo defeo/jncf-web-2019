@@ -48,7 +48,7 @@ layout: main.njk
 
 ||||
 |-|-|-|
-|  9:00 | Delphine Boucher | Autour de codes définis à partir de polynômes tordus |
+|  9:00 | Delphine Boucher | [Autour de codes définis à partir de polynômes tordus](program/notes-boucher.pdf) |
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Florent Bréhard | [A computer-assisted proof for a new lower bound on H(4) in Hilbert’s sixteenth problem](program/abs-brehard.pdf) **[slides](program/slides-brehard.pdf)** |
 | 11:30 | Vincel Hoang Ngoc Minh | [Un cas pratique de la théorie de Picard-Vessiot des équations différentielles non commutatives](program/abs-minh.pdf) **[slides](program/slides-minh.pdf)** |
@@ -62,7 +62,7 @@ layout: main.njk
 
 ||||
 |-|-|-|
-|  9:00 | Delphine Boucher | Autour de codes définis à partir de polynômes tordus |
+|  9:00 | Delphine Boucher | [Autour de codes définis à partir de polynômes tordus](program/notes-boucher.pdf) |
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Aude Le Gluher | [Un algorithme géométrique efficace pour le calcul d’espaces de Riemann-Roch](program/abs-legluher.pdf) **[slides](program/slides-legluher.pdf)** |
 | 11:30 | Adrien Poteaux | [Factoring polynomials over discrete valuation rings](program/abs-poteaux.pdf) **[slides](program/slides-poteaux.pdf)** |
