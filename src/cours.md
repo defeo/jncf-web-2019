@@ -13,6 +13,10 @@ doctorants et post-doctorants.
 
 par [Mohamed Barakat](https://mohamed-barakat.github.io/) (University of Siegen, Allemagne)
 
+> Les [slides](program/notes-barakat.pdf)
+>
+> Les [scripts GAP](https://github.com/defeo/jncf-web-2019/tree/master/src/program/barakat-gap-scripts/).
+
 ### Codes correcteurs d'erreurs construits à partir de polynômes tordus
 
 par [Delphine Boucher](https://perso.univ-rennes1.fr/delphine.boucher/) (Université de Rennes)

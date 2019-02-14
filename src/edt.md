@@ -68,7 +68,7 @@ layout: main.njk
 | 11:30 | Adrien Poteaux | [Factoring polynomials over discrete valuation rings](program/abs-poteaux.pdf) **[slides](program/slides-poteaux.pdf)** |
 | 12:00 | Fatmanur Yıldırım | [Implicit matrix representations via quadratic relations](program/abs-yildirim.pdf) **[slides](program/slides-yildirim.pdf)** |
 | 12:30 | | ~~Déjeuner~~ |
-| 14:00 | Mohamed Barakat | Category theory as an abstract programming language |
+| 14:00 | Mohamed Barakat | [Category theory as an abstract programming language](program/notes-barakat.pdf) |
 | 15:30 | | ~~Pause~~ |
 | 16:00 | Leonardo Colò | [Orienting supersingular isogeny graphs](program/abs-colo.pdf) **[slides](program/slides-colo.pdf)** |
 | 16:30 | Jean Kieffer | [Échange de clés à base de graphes d’isogénies CM sur un corps fini](program/abs-kieffer.pdf) **[slides](program/slides-kieffer.pdf)** |
@@ -82,7 +82,7 @@ layout: main.njk
 
 ||||
 |-|-|-|
-|  9:00 | Mohamed Barakat | Chevalley’s theorem on the image of a polynomial map made constructive |
+|  9:00 | Mohamed Barakat | [Chevalley’s theorem on the image of a polynomial map made constructive](program/notes-barakat.pdf) |
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Cyrille Chenavier | [Reduction operators and completion of linear rewriting systems](program/abs-chenavier.pdf) **[slides](program/slides-chenavier.pdf)** |
 | 11:30 | André Galligo | [Ideal d'élimination et borne optimale pour une relation de Bézout](program/abs-galligo.pdf) **[slides](program/slides-galligo.pdf)** |
