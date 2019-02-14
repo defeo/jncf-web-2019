@@ -48,7 +48,7 @@ layout: main.njk
 
 ||||
 |-|-|-|
-|  9:00 | Delphine Boucher | [Autour de codes définis à partir de polynômes tordus](program/notes-boucher.pdf) |
+|  9:00 | Delphine Boucher | Autour de codes définis à partir de polynômes tordus **[slides](program/notes-boucher.pdf)** |
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Florent Bréhard | [A computer-assisted proof for a new lower bound on H(4) in Hilbert’s sixteenth problem](program/abs-brehard.pdf) **[slides](program/slides-brehard.pdf)** |
 | 11:30 | Vincel Hoang Ngoc Minh | [Un cas pratique de la théorie de Picard-Vessiot des équations différentielles non commutatives](program/abs-minh.pdf) **[slides](program/slides-minh.pdf)** |
@@ -62,13 +62,13 @@ layout: main.njk
 
 ||||
 |-|-|-|
-|  9:00 | Delphine Boucher | [Autour de codes définis à partir de polynômes tordus](program/notes-boucher.pdf) |
+|  9:00 | Delphine Boucher | Autour de codes définis à partir de polynômes tordus **[slides](program/notes-boucher.pdf)** |
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Aude Le Gluher | [Un algorithme géométrique efficace pour le calcul d’espaces de Riemann-Roch](program/abs-legluher.pdf) **[slides](program/slides-legluher.pdf)** |
 | 11:30 | Adrien Poteaux | [Factoring polynomials over discrete valuation rings](program/abs-poteaux.pdf) **[slides](program/slides-poteaux.pdf)** |
 | 12:00 | Fatmanur Yıldırım | [Implicit matrix representations via quadratic relations](program/abs-yildirim.pdf) **[slides](program/slides-yildirim.pdf)** |
 | 12:30 | | ~~Déjeuner~~ |
-| 14:00 | Mohamed Barakat | [Category theory as an abstract programming language](program/notes-barakat.pdf) |
+| 14:00 | Mohamed Barakat | Category theory as an abstract programming language **[slides](program/notes-barakat.pdf)** **[code](https://github.com/defeo/jncf-web-2019/tree/master/src/program/barakat-gap-scripts/)** |
 | 15:30 | | ~~Pause~~ |
 | 16:00 | Leonardo Colò | [Orienting supersingular isogeny graphs](program/abs-colo.pdf) **[slides](program/slides-colo.pdf)** |
 | 16:30 | Jean Kieffer | [Échange de clés à base de graphes d’isogénies CM sur un corps fini](program/abs-kieffer.pdf) **[slides](program/slides-kieffer.pdf)** |
@@ -82,7 +82,7 @@ layout: main.njk
 
 ||||
 |-|-|-|
-|  9:00 | Mohamed Barakat | [Chevalley’s theorem on the image of a polynomial map made constructive](program/notes-barakat.pdf) |
+|  9:00 | Mohamed Barakat | Chevalley’s theorem on the image of a polynomial map made constructive **[slides](program/notes-barakat.pdf)** **[code](https://github.com/defeo/jncf-web-2019/tree/master/src/program/barakat-gap-scripts/)** |
 | 10:30 | | ~~Pause~~ |
 | 11:00 | Cyrille Chenavier | [Reduction operators and completion of linear rewriting systems](program/abs-chenavier.pdf) **[slides](program/slides-chenavier.pdf)** |
 | 11:30 | André Galligo | [Ideal d'élimination et borne optimale pour une relation de Bézout](program/abs-galligo.pdf) **[slides](program/slides-galligo.pdf)** |
