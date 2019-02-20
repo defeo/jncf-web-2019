@@ -1,14 +1,16 @@
-/* @import "common.css"; */
-/* @import "tables.css"; */
-/* @import "program.css"; */
-
 /* .program table tr.plain td { display: none; } */
-div.nav, div.made-by, h1.longtitle { display: none; }
+
+nav { display: none; }
 a { text-decoration: none; }
 
-h1.shorttitle {
-	font-size: 150%;
-	text-align: center;
+thead {
+    background-color: #eee;
 }
 
-/* vim:set ft=css: */
+tbody tr:nth-child(even) {
+  background-color: white;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #eee;
+}
